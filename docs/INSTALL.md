@@ -43,6 +43,13 @@
 
     We recommend placing the above in your .bashrc or in a setup script so that
     you can avoid typing this every time you open a new terminal window.
+    
+    ```
+
+    On Windows
+    ```
+    Download and install Go from https://golang.org/doc/install
+
 
   * **dep:** This project uses `dep` to manage dependencies as well
     as to provide *reproducible builds*.
